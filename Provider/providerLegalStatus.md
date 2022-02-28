@@ -1,6 +1,6 @@
-| Provider Legal Status |                                                              |
+| **Provider Legal Status |                                                              |
 |-----------------------|--------------------------------------------------------------|
-| No.                   | Provider Legal Status                                        |
+| **No.**                   | **Provider Legal Status**                                        |
 | 1                     | Association                                                  |
 | 2                     | Consortium                                                   |
 | 3                     | Corporation                                                  |
